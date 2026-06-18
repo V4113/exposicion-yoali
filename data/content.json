@@ -13,7 +13,7 @@
       "floatingIcon": "\ud83d\udeeb",
       "ribbon": true,
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg/800px-Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg",
+        "src": "/assets/images/aviation/Yoali1.jpeg",
         "alt": "Aeropuerto visto desde arriba con aviones estacionados"
       }
     },
@@ -27,10 +27,10 @@
         { "icon": "\u2601\ufe0f", "text": "Me imagino volando por el cielo." }
       ],
       "note": "Me gusta aprender cosas nuevas y hoy quiero compartir mi sue\u00f1o con ustedes.",
-      "floatingIcon": "\ud83e\uddd1\u200d\u2708\ufe0f",
+      "floatingIcon": "\ud83d\udc67\u2708\ufe0f",
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Airline_Pilot.jpg",
-        "alt": "Piloto con uniforme",
+        "src": "",
+        "alt": "Yoali con uniforme en el simulador",
         "variant": "tall"
       }
     },
@@ -46,7 +46,7 @@
       "note": "Un piloto debe aprender mucho, poner atenci\u00f3n y trabajar con responsabilidad.",
       "floatingIcon": "\ud83d\udee9\ufe0f",
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Airbus_A380_cockpit.jpg/800px-Airbus_A380_cockpit.jpg",
+        "src": "/assets/images/aviation/cabina.jpeg",
         "alt": "Cabina de un avi\u00f3n Airbus A380"
       }
     },
@@ -61,9 +61,11 @@
       ],
       "note": "El piloto no trabaja solo. Tambi\u00e9n ayuda el copiloto, la tripulaci\u00f3n y muchas personas del aeropuerto.",
       "floatingIcon": "\ud83d\udce1",
-      "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Navigating_in_the_Cockpit_(Unsplash).jpg",
-        "alt": "Pilotos manejando una avioneta desde la cabina"
+      "video": {
+        "src": "assets/videos/despegue.mp4",
+        "alt": "Video de un avi\u00f3n despegando",
+        "controls": true,
+        "preload": "metadata"
       }
     },
     {
@@ -109,9 +111,11 @@
       ],
       "note": "Mi mam\u00e1 me ense\u00f1\u00f3 que los sue\u00f1os se pueden cuidar y trabajar poco a poco.",
       "floatingIcon": "\ud83d\udc99",
-      "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg/800px-Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg",
-        "alt": "Aeropuerto con muchos aviones"
+      "video": {
+        "src": "assets/videos/subiendo.mp4",
+        "alt": "Video de Yoali subiendo al avi\u00f3n",
+        "controls": true,
+        "preload": "metadata"
       }
     },
     {
@@ -148,23 +152,19 @@
       }
     },
     {
-      "kicker": "\u2753 Pr\u00e1ctica",
-      "title": "Preguntas para el p\u00fablico",
-      "questions": [
-        { "question": "\u00bfQu\u00e9 quiero ser de grande?", "answer": "Piloto aviador." },
-        { "question": "\u00bfPor qu\u00e9 me gustan los aviones?", "answer": "Porque es emocionante viajar por el cielo." },
-        { "question": "\u00bfC\u00f3mo ayuda un piloto?", "answer": "Lleva personas seguras y une familias." }
+      "kicker": "\ud83d\udc4b Despedida",
+      "title": "\u00a1Gracias por escucharme!",
+      "subtitle": "Espero que les haya gustado mi sue\u00f1o de ser piloto aviador.",
+      "bullets": [
+        { "icon": "\u2708\ufe0f", "text": "Los sue\u00f1os tambi\u00e9n pueden volar alto." },
+        { "icon": "\ud83d\udc99", "text": "Yo seguir\u00e9 aprendiendo con mucha alegr\u00eda." },
+        { "icon": "\ud83c\udf1f", "text": "Muchas gracias por acompa\u00f1arme." }
       ],
-      "sources": [
-        { "label": "piloto", "url": "https://commons.wikimedia.org/wiki/File:Airline_Pilot.jpg" },
-        { "label": "cabina", "url": "https://commons.wikimedia.org/wiki/File:Navigating_in_the_Cockpit_(Unsplash).jpg" },
-        { "label": "aeropuerto", "url": "https://en.wikipedia.org/wiki/Airport_terminal" },
-        { "label": "aviones", "url": "https://commons.wikimedia.org/wiki/File:Air_and_Space_Planes.jpg" }
-      ],
+      "note": "Muchas gracias por escuchar mi exposici\u00f3n. Cuando sea grande, quiero volar por el cielo y ayudar a muchas personas.",
       "floatingIcon": "\ud83d\udc4f",
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Airline_Pilot.jpg",
-        "alt": "Piloto saludando",
+        "src": "assets/images/aviation/despedida.jpeg",
+        "alt": "Foto de Yoali para cerrar la presentaci\u00f3n",
         "variant": "tall"
       }
     }

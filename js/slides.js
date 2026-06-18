@@ -85,10 +85,28 @@
     return card;
   }
 
+  function renderVideo(video) {
+    const cardClass = video.variant === "tall" ? "photo-card video-card tall" : "photo-card video-card";
+    const card = createElement("div", cardClass);
+    const media = document.createElement("video");
+    media.src = video.src;
+    media.controls = video.controls !== false;
+    media.autoplay = video.autoplay === true;
+    media.muted = video.muted === true;
+    media.loop = video.loop === true;
+    media.playsInline = true;
+    media.preload = video.preload || "metadata";
+    media.setAttribute("aria-label", video.alt || "Video de la presentacion");
+    card.appendChild(media);
+    return card;
+  }
+
   function renderVisual(slide, index) {
     const visual = createElement("div", "visual");
 
-    if (slide.image) {
+    if (slide.video) {
+      visual.appendChild(renderVideo(slide.video));
+    } else if (slide.image) {
       visual.appendChild(renderImage(slide.image));
     }
 

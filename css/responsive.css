@@ -28,6 +28,10 @@
     width: min(70vw, 280px);
   }
 
+  .video-card {
+    width: min(68vw, 300px);
+  }
+
   .bullet-list li {
     padding: 10px 12px;
   }
