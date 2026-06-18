@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Yoali quiere ser piloto aviador",
+    "brand": "Exam\u00e9n de graduaci\u00f3n Yoali \u2708\ufe0f"
+  },
+  "slides": [
+    {
+      "kicker": "\ud83c\udf08 Mi sue\u00f1o para cuando sea grande",
+      "title": "Quiero ser piloto aviador",
+      "subtitle": "\u2708\ufe0f",
+      "badges": ["Yoali Maricela Valle Robles", "\u00a1Listos para despegar!"],
+      "note": "Hola, soy Yoali. Hoy les voy a contar por qu\u00e9 sue\u00f1o con ser piloto aviador.",
+      "floatingIcon": "\ud83d\udeeb",
+      "ribbon": true,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg/800px-Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg",
+        "alt": "Aeropuerto visto desde arriba con aviones estacionados"
+      }
+    },
+    {
+      "kicker": "\ud83d\udc67 Presentaci\u00f3n",
+      "title": "Yo soy Yoali",
+      "subtitle": "Mi nombre completo es:",
+      "bullets": [
+        { "icon": "\u2b50", "text": "Yoali Maricela Valle Robles" },
+        { "icon": "\ud83c\udf92", "text": "Hoy voy a hablar de una profesi\u00f3n que me gusta mucho." },
+        { "icon": "\u2601\ufe0f", "text": "Me imagino volando por el cielo." }
+      ],
+      "note": "Me gusta aprender cosas nuevas y hoy quiero compartir mi sue\u00f1o con ustedes.",
+      "floatingIcon": "\ud83e\uddd1\u200d\u2708\ufe0f",
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Airline_Pilot.jpg",
+        "alt": "Piloto con uniforme",
+        "variant": "tall"
+      }
+    },
+    {
+      "kicker": "\ud83d\udcad Mi sue\u00f1o",
+      "title": "\u00bfQu\u00e9 quiero ser de grande?",
+      "subtitle": "Quiero ser piloto aviador.",
+      "bullets": [
+        { "icon": "\u2708\ufe0f", "text": "Un piloto maneja aviones." },
+        { "icon": "\ud83e\udded", "text": "Sigue rutas para llegar al destino." },
+        { "icon": "\ud83d\udee1\ufe0f", "text": "Cuida a las personas durante el viaje." }
+      ],
+      "note": "Un piloto debe aprender mucho, poner atenci\u00f3n y trabajar con responsabilidad.",
+      "floatingIcon": "\ud83d\udee9\ufe0f",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Airbus_A380_cockpit.jpg/800px-Airbus_A380_cockpit.jpg",
+        "alt": "Cabina de un avi\u00f3n Airbus A380"
+      }
+    },
+    {
+      "kicker": "\ud83e\uddd1\u200d\u2708\ufe0f Trabajo del piloto",
+      "title": "\u00bfQu\u00e9 hace un piloto?",
+      "bullets": [
+        { "icon": "\u2705", "text": "Revisa que el avi\u00f3n est\u00e9 listo." },
+        { "icon": "\ud83c\udfa7", "text": "Habla con la torre de control." },
+        { "icon": "\ud83e\udded", "text": "Gu\u00eda el avi\u00f3n por una ruta segura." },
+        { "icon": "\ud83c\udf26\ufe0f", "text": "Observa el clima y toma buenas decisiones." }
+      ],
+      "note": "El piloto no trabaja solo. Tambi\u00e9n ayuda el copiloto, la tripulaci\u00f3n y muchas personas del aeropuerto.",
+      "floatingIcon": "\ud83d\udce1",
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Navigating_in_the_Cockpit_(Unsplash).jpg",
+        "alt": "Pilotos manejando una avioneta desde la cabina"
+      }
+    },
+    {
+      "kicker": "\ud83d\udc96 Por qu\u00e9 me gusta",
+      "title": "\u00bfPor qu\u00e9 eleg\u00ed esta profesi\u00f3n?",
+      "subtitle": "Porque me gustan mucho los aviones.",
+      "bullets": [
+        { "icon": "\u2601\ufe0f", "text": "Me parece emocionante viajar por el cielo." },
+        { "icon": "\ud83c\udf0e", "text": "Me gustar\u00eda conocer muchos lugares." },
+        { "icon": "\ud83e\udd1d", "text": "Quiero ayudar a las personas a llegar seguras." }
+      ],
+      "note": "Cuando veo un avi\u00f3n, imagino todas las historias de las personas que viajan en \u00e9l.",
+      "floatingIcon": "\ud83c\udf0d",
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Air_and_Space_Planes.jpg",
+        "alt": "Aviones hist\u00f3ricos en un museo"
+      }
+    },
+    {
+      "kicker": "\ud83e\udd32 Ayuda a la sociedad",
+      "title": "\u00bfC\u00f3mo ayuda un piloto?",
+      "bullets": [
+        { "icon": "\ud83d\udee1\ufe0f", "text": "Transporta personas de forma segura." },
+        { "icon": "\ud83c\udf06", "text": "Une ciudades y pa\u00edses." },
+        { "icon": "\ud83d\ude91", "text": "Puede ayudar en emergencias." },
+        { "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66", "text": "Ayuda a que las familias se re\u00fanan." }
+      ],
+      "note": "Un viaje en avi\u00f3n puede llevar a alguien a ver a su familia, a trabajar o a recibir ayuda.",
+      "floatingIcon": "\ud83e\uddf3",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Suvarnabhumi_Airport%2C_Bangkok%2C_Thailand.jpg/800px-Suvarnabhumi_Airport%2C_Bangkok%2C_Thailand.jpg",
+        "alt": "Interior de un aeropuerto con personas caminando"
+      }
+    },
+    {
+      "kicker": "\u2728 Mi inspiraci\u00f3n",
+      "title": "\u00bfQui\u00e9n me motiv\u00f3?",
+      "subtitle": "Mi mam\u00e1 trabaja en Aerom\u00e9xico como contadora.",
+      "bullets": [
+        { "icon": "\ud83d\udc69", "text": "Gracias a ella he visto aviones de cerca." },
+        { "icon": "\ud83d\udc99", "text": "Eso me inspir\u00f3 a aprender m\u00e1s." },
+        { "icon": "\ud83c\udf1f", "text": "Ahora sue\u00f1o con ser piloto cuando sea grande." }
+      ],
+      "note": "Mi mam\u00e1 me ense\u00f1\u00f3 que los sue\u00f1os se pueden cuidar y trabajar poco a poco.",
+      "floatingIcon": "\ud83d\udc99",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg/800px-Aerial_wiew_of_Los_Angeles_International_Airport%2C_Juy_2022_%282%29.jpg",
+        "alt": "Aeropuerto con muchos aviones"
+      }
+    },
+    {
+      "kicker": "\ud83d\udd0e Datos curiosos",
+      "title": "Cosas incre\u00edbles de los aviones",
+      "bullets": [
+        { "icon": "\ud83e\udebd", "text": "Las alas ayudan a levantar el avi\u00f3n." },
+        { "icon": "\ud83e\uddd1\u200d\u2708\ufe0f", "text": "Muchos vuelos tienen piloto y copiloto." },
+        { "icon": "\ud83d\udce1", "text": "La torre de control ayuda a ordenar los vuelos." },
+        { "icon": "\ud83e\uddf3", "text": "Los aviones llevan personas, maletas y algunas cargas." },
+        { "icon": "\ud83c\udf26\ufe0f", "text": "Antes de volar, se revisa el clima." }
+      ],
+      "note": "Los aviones parecen m\u00e1gicos, pero vuelan gracias a la ciencia, el trabajo y la seguridad.",
+      "floatingIcon": "\u2b50",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Polet_Antonov_An-124-100_cockpit_Petrov.jpg/800px-Polet_Antonov_An-124-100_cockpit_Petrov.jpg",
+        "alt": "Cabina grande de un avi\u00f3n de carga"
+      }
+    },
+    {
+      "kicker": "\ud83c\udfa4 Conclusi\u00f3n",
+      "title": "Mi sue\u00f1o puede volar",
+      "subtitle": "Quiero estudiar, aprender y esforzarme para ser piloto.",
+      "bullets": [
+        { "icon": "\ud83d\udcda", "text": "Aprender\u00e9 mucho en la escuela." },
+        { "icon": "\ud83d\udcaa", "text": "Practicar\u00e9 ser responsable." },
+        { "icon": "\u2708\ufe0f", "text": "Seguir\u00e9 so\u00f1ando en grande." }
+      ],
+      "note": "Gracias por escuchar mi exposici\u00f3n. Espero que tambi\u00e9n cuiden sus sue\u00f1os.",
+      "floatingIcon": "\ud83c\udfc1",
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Navigating_in_the_Cockpit_(Unsplash).jpg",
+        "alt": "Vista desde la cabina de un avi\u00f3n"
+      }
+    },
+    {
+      "kicker": "\u2753 Pr\u00e1ctica",
+      "title": "Preguntas para el p\u00fablico",
+      "questions": [
+        { "question": "\u00bfQu\u00e9 quiero ser de grande?", "answer": "Piloto aviador." },
+        { "question": "\u00bfPor qu\u00e9 me gustan los aviones?", "answer": "Porque es emocionante viajar por el cielo." },
+        { "question": "\u00bfC\u00f3mo ayuda un piloto?", "answer": "Lleva personas seguras y une familias." }
+      ],
+      "sources": [
+        { "label": "piloto", "url": "https://commons.wikimedia.org/wiki/File:Airline_Pilot.jpg" },
+        { "label": "cabina", "url": "https://commons.wikimedia.org/wiki/File:Navigating_in_the_Cockpit_(Unsplash).jpg" },
+        { "label": "aeropuerto", "url": "https://en.wikipedia.org/wiki/Airport_terminal" },
+        { "label": "aviones", "url": "https://commons.wikimedia.org/wiki/File:Air_and_Space_Planes.jpg" }
+      ],
+      "floatingIcon": "\ud83d\udc4f",
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Airline_Pilot.jpg",
+        "alt": "Piloto saludando",
+        "variant": "tall"
+      }
+    }
+  ]
+}

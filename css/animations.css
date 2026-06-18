@@ -1,0 +1,44 @@
+.slide {
+  /* Transici&oacute;n principal entre diapositivas. */
+  transition: opacity 480ms ease, transform 480ms ease;
+}
+
+.plane {
+  animation: floatPlane 3.8s ease-in-out infinite;
+}
+
+.plane.two {
+  animation-delay: 600ms;
+}
+
+button {
+  transition: transform 180ms ease, opacity 180ms ease, background 180ms ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  background: var(--blue);
+}
+
+@keyframes floatPlane {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-8deg);
+  }
+
+  50% {
+    transform: translateY(-18px) rotate(5deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* Respeta usuarios que prefieren menos movimiento. */
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

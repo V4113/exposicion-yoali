@@ -1,0 +1,62 @@
+@media (max-width: 850px) {
+  /* Ajustes para que la presentaci&oacute;n sea legible en celulares y tablets. */
+  body {
+    overflow: hidden;
+  }
+
+  .slide,
+  .loading-slide {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    gap: 16px;
+    padding: 68px 18px 92px;
+    align-content: center;
+  }
+
+  .visual {
+    min-height: 210px;
+    order: -1;
+  }
+
+  .photo-card {
+    width: min(82vw, 360px);
+    border-width: 7px;
+    border-radius: 22px;
+  }
+
+  .photo-card.tall {
+    width: min(70vw, 280px);
+  }
+
+  .bullet-list li {
+    padding: 10px 12px;
+  }
+
+  .qa-grid {
+    grid-template-columns: 1fr;
+    gap: 9px;
+  }
+
+  .qa-card {
+    padding: 11px 13px;
+  }
+
+  .note {
+    padding: 12px 14px;
+    margin-top: 14px;
+  }
+
+  .hint {
+    display: none;
+  }
+
+  button {
+    min-height: 48px;
+    padding: 10px 14px;
+  }
+
+  .progress {
+    min-width: auto;
+    padding: 10px 12px;
+  }
+}
