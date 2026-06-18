@@ -13,7 +13,7 @@
       "floatingIcon": "\ud83d\udeeb",
       "ribbon": true,
       "image": {
-        "src": "/assets/images/aviation/Yoali1.jpeg",
+        "src": "assets/images/aviation/Yoali1.jpeg",
         "alt": "Aeropuerto visto desde arriba con aviones estacionados"
       }
     },
@@ -46,7 +46,7 @@
       "note": "Un piloto debe aprender mucho, poner atenci\u00f3n y trabajar con responsabilidad.",
       "floatingIcon": "\ud83d\udee9\ufe0f",
       "image": {
-        "src": "/assets/images/aviation/cabina.jpeg",
+        "src": "assets/images/aviation/cabina.jpeg",
         "alt": "Cabina de un avi\u00f3n Airbus A380"
       }
     },
