@@ -29,7 +29,7 @@
       "note": "Me gusta aprender cosas nuevas y hoy quiero compartir mi sue\u00f1o con ustedes.",
       "floatingIcon": "\ud83d\udc67\u2708\ufe0f",
       "image": {
-        "src": "",
+        "src": "assets/images/aviation/yoali-uniforme.jpeg",
         "alt": "Yoali con uniforme en el simulador",
         "variant": "tall"
       }
@@ -80,7 +80,7 @@
       "note": "Cuando veo un avi\u00f3n, imagino todas las historias de las personas que viajan en \u00e9l.",
       "floatingIcon": "\ud83c\udf0d",
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Air_and_Space_Planes.jpg",
+        "src": "assets/images/aviation/volando.jpeg",
         "alt": "Aviones hist\u00f3ricos en un museo"
       }
     },
@@ -96,7 +96,7 @@
       "note": "Un viaje en avi\u00f3n puede llevar a alguien a ver a su familia, a trabajar o a recibir ayuda.",
       "floatingIcon": "\ud83e\uddf3",
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Suvarnabhumi_Airport%2C_Bangkok%2C_Thailand.jpg/800px-Suvarnabhumi_Airport%2C_Bangkok%2C_Thailand.jpg",
+        "src": "assets/images/aviation/simulador.jpeg",
         "alt": "Interior de un aeropuerto con personas caminando"
       }
     },
@@ -131,7 +131,7 @@
       "note": "Los aviones parecen m\u00e1gicos, pero vuelan gracias a la ciencia, el trabajo y la seguridad.",
       "floatingIcon": "\u2b50",
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Polet_Antonov_An-124-100_cockpit_Petrov.jpg/800px-Polet_Antonov_An-124-100_cockpit_Petrov.jpg",
+        "src": "assets/images/aviation/escala.jpeg",
         "alt": "Cabina grande de un avi\u00f3n de carga"
       }
     },
@@ -147,7 +147,7 @@
       "note": "Gracias por escuchar mi exposici\u00f3n. Espero que tambi\u00e9n cuiden sus sue\u00f1os.",
       "floatingIcon": "\ud83c\udfc1",
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Navigating_in_the_Cockpit_(Unsplash).jpg",
+        "src": "assets/images/aviation/avioncito.jpeg",
         "alt": "Vista desde la cabina de un avi\u00f3n"
       }
     },

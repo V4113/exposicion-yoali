@@ -145,9 +145,9 @@
       content.appendChild(renderQuestions(slide.questions));
     }
 
-    if (slide.note) {
-      content.appendChild(renderSpeakerNote(slide.note));
-    }
+    // if (slide.note) {
+    //   content.appendChild(renderSpeakerNote(slide.note));
+    // }
 
     if (slide.sources) {
       content.appendChild(renderSources(slide.sources));
